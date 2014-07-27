@@ -1,6 +1,6 @@
 /*
 	Example: A tip calculation FIS (fuzzy inference system)
-	Calculates tip based on 'servie' and 'food'
+	Calculates tip based on 'service' and 'food'
 
 	If you want to about this example (and fuzzy logic), please 
 	read Matlab's tutorial on fuzzy logic toolbox 
